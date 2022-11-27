@@ -5,8 +5,9 @@
 - Utilizando Amazon Athena e Amazon S# usando SQL padrão
 
 
-### dio-live-athena
+### dio-live-athena -> "DIO - Geração Tech Unimed-BH " -> Instrutor Cassiano Peres.
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
